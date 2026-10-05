@@ -2711,7 +2711,7 @@ Material:
     - _OutlineSoftness: 0
     - _OutlineUVSpeedX: 0
     - _OutlineUVSpeedY: 0
-    - _OutlineWidth: 0.176
+    - _OutlineWidth: 0.413
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
     - _ScaleRatioA: 0.8333333
@@ -2730,7 +2730,7 @@ Material:
     - _TextureHeight: 512
     - _TextureWidth: 512
     - _UnderlayDilate: 0
-    - _UnderlayOffsetX: 0.84
+    - _UnderlayOffsetX: 1
     - _UnderlayOffsetY: -0.61
     - _UnderlaySoftness: 0
     - _VertexOffsetX: 0

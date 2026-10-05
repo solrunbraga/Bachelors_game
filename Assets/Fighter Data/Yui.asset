@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc2de9548f5c20649b7c48ce0f8b2ede, type: 3}
+  m_Name: Yui
+  m_EditorClassIdentifier: Assembly-CSharp::FighterData
+  fighterName: Yui
+  lore: "A royal decandant\xFE Stuck up and \nspoiled. Has had training from the\nbest masters money can buy. \n\nHas a elegant fight style with high\nmobility. Her training has allowed \nher to summon the flowers around \nher to attak the enemy. "
+  portrait: {fileID: -1619471416765440576, guid: fee403dfa1a216a44b650a8f6c26c4dd, type: 3}
+  showcaseImage: {fileID: 4652319679094659705, guid: 6449a8744ac4a924ebcca62471806fe3, type: 3}
+  difficulty: 3
+  power: 2
+  mobility: 4
+  health: 2
+  range: 2

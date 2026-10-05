@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc2de9548f5c20649b7c48ce0f8b2ede, type: 3}
+  m_Name: Reo
+  m_EditorClassIdentifier: Assembly-CSharp::FighterData
+  fighterName: Reo
+  lore: "comes from a poor family, and joined\nthe arena to bring glory back to his\nfamily. \n\nhe is a strong fighter that can bring \nhis inner energy to his palms and \nuse it to bring more power into his \nattacks against enemies."
+  portrait: {fileID: -5351693528220962877, guid: 463b0edc3dd30ee40af7c6b5d330c541, type: 3}
+  showcaseImage: {fileID: -2926248460274927316, guid: 3b750dac133aa6d41874b2370a843245, type: 3}
+  difficulty: 2
+  power: 4
+  mobility: 3
+  health: 3
+  range: 2

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc2de9548f5c20649b7c48ce0f8b2ede, type: 3}
+  m_Name: Tao
+  m_EditorClassIdentifier: Assembly-CSharp::FighterData
+  fighterName: Tao
+  lore: "A highly skilled ninja that comes \nfrom outside the city. Suspected to be\na child from a former champion of \nthe arena. \n\nHe can summon his shadow self to \nattack his enemies along side him. "
+  portrait: {fileID: -6468290273352284251, guid: b326548f49ea54e418f71ed87045e062, type: 3}
+  showcaseImage: {fileID: 6155952590781249410, guid: eac7a9e112542eb428dcf345c07d2e08, type: 3}
+  difficulty: 4
+  power: 4
+  mobility: 2
+  health: 4
+  range: 1
