@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de262903ab4bc084a99d272ac7c5d642
+guid: 381d8766bbfd6b64e9661b1d649d1a0f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4651289998780787516
-    second: Aoi character selected_0
+      213: 3079920696534193948
+    second: Reo Char_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Aoi character selected_0
+      name: Reo Char_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 92
-        width: 711
-        height: 876
+        x: 213
+        y: 15
+        width: 491
+        height: 942
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c41853c36c437fb0800000000000000
-      internalID: -4651289998780787516
+      spriteID: c175b4d2e831eba20800000000000000
+      internalID: 3079920696534193948
       vertices: []
       indices: 
       edges: []
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Aoi character selected_0: -4651289998780787516
+      Reo Char_0: 3079920696534193948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

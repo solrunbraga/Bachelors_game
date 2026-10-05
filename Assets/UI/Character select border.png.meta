@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de262903ab4bc084a99d272ac7c5d642
+guid: 37d97a31f4f820d4f903e1dc507df053
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4651289998780787516
-    second: Aoi character selected_0
+      213: 935444398398132170
+    second: Character select border_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Aoi character selected_0
+      name: Character select border_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 92
-        width: 711
-        height: 876
+        x: 0
+        y: 0
+        width: 249
+        height: 249
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c41853c36c437fb0800000000000000
-      internalID: -4651289998780787516
+      spriteID: acf46a169bd5bfc00800000000000000
+      internalID: 935444398398132170
       vertices: []
       indices: 
       edges: []
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Aoi character selected_0: -4651289998780787516
+      Character select border_0: 935444398398132170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

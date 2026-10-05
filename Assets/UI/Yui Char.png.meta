@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 92313c9123f7f8a43bf9f95fa1fa6f28
+guid: 6449a8744ac4a924ebcca62471806fe3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -82876316125215440
-    second: Character select P1(1)_0
+      213: 4652319679094659705
+    second: Yui Char_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character select P1(1)_0
+      name: Yui Char_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 249
-        height: 249
+        x: 324
+        y: 13
+        width: 370
+        height: 896
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0354019fd6099def0800000000000000
-      internalID: -82876316125215440
+      spriteID: 97a1ffd591c509040800000000000000
+      internalID: 4652319679094659705
       vertices: []
       indices: 
       edges: []
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Character select P1(1)_0: -82876316125215440
+      Yui Char_0: 4652319679094659705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
